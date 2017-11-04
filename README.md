@@ -1,2 +1,2 @@
 # TodoList-React
-A simple page apps build by React
+A single page app build by React
